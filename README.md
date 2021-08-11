@@ -1,1 +1,2 @@
 # fetchmergetest
+newline1
